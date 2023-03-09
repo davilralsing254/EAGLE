@@ -1,2 +1,2 @@
-# hello_world_Html
+# just trying to learn new things
 My firstRepository
